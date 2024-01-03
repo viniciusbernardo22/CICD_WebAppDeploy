@@ -1,0 +1,12 @@
+C:\Users\Usuario\Desktop\Courses\TrevorAzure\azure-app\bin\Release\net8.0\publish\azure-app.exe
+C:\Users\Usuario\Desktop\Courses\TrevorAzure\azure-app\bin\Release\net8.0\publish\publish\web.config
+C:\Users\Usuario\Desktop\Courses\TrevorAzure\azure-app\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\Usuario\Desktop\Courses\TrevorAzure\azure-app\bin\Release\net8.0\publish\appsettings.json
+C:\Users\Usuario\Desktop\Courses\TrevorAzure\azure-app\bin\Release\net8.0\publish\publish\appsettings.Development.json
+C:\Users\Usuario\Desktop\Courses\TrevorAzure\azure-app\bin\Release\net8.0\publish\publish\appsettings.json
+C:\Users\Usuario\Desktop\Courses\TrevorAzure\azure-app\bin\Release\net8.0\publish\publish\azure-app.deps.json
+C:\Users\Usuario\Desktop\Courses\TrevorAzure\azure-app\bin\Release\net8.0\publish\publish\azure-app.runtimeconfig.json
+C:\Users\Usuario\Desktop\Courses\TrevorAzure\azure-app\bin\Release\net8.0\publish\azure-app.dll
+C:\Users\Usuario\Desktop\Courses\TrevorAzure\azure-app\bin\Release\net8.0\publish\azure-app.deps.json
+C:\Users\Usuario\Desktop\Courses\TrevorAzure\azure-app\bin\Release\net8.0\publish\azure-app.runtimeconfig.json
+C:\Users\Usuario\Desktop\Courses\TrevorAzure\azure-app\bin\Release\net8.0\publish\azure-app.pdb

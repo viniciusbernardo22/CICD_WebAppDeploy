@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\Courses\TrevorAzure\azure-app\publish\azure-app.exe
+C:\Users\Usuario\Desktop\Courses\TrevorAzure\azure-app\publish\appsettings.Development.json
+C:\Users\Usuario\Desktop\Courses\TrevorAzure\azure-app\publish\appsettings.json
+C:\Users\Usuario\Desktop\Courses\TrevorAzure\azure-app\publish\azure-app.dll
+C:\Users\Usuario\Desktop\Courses\TrevorAzure\azure-app\publish\azure-app.deps.json
+C:\Users\Usuario\Desktop\Courses\TrevorAzure\azure-app\publish\azure-app.runtimeconfig.json
+C:\Users\Usuario\Desktop\Courses\TrevorAzure\azure-app\publish\azure-app.pdb
